@@ -1,0 +1,53 @@
+header, nav, footer, {
+    max-width: 92%;
+    margin: 0 auto;
+}
+.izq
+{
+    display: inline-block;
+    max-width: 45%;
+    
+}
+.der
+{
+    display: inline-block;
+    max-width: 45%;
+    position: absolute;
+    left: 55%;
+    
+    
+    margin-top: auto;
+    background-color: white;
+    color: darkblue;
+}
+.nave{
+    
+
+    background-color: #FFBF00;
+    color: black;
+}
+.central{
+    
+    display: inline-block;
+    width: 45%;
+    background-color: burlywood;
+    
+    
+}
+.centro{
+    
+    display: inline-block;
+    width: 45%;
+    background-color: chartreuse;
+    
+}
+}
+footer{
+    background-color: coral;
+}
+
+}
+div.contenedor {
+	width: 300px; 
+	margin: 0 auto; 
+}
