@@ -51,3 +51,9 @@ div.contenedor {
 	width: 300px; 
 	margin: 0 auto; 
 }
+
+.widget{
+    display: inline-block;
+    left: 75%;
+    position: absolute;
+}
